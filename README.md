@@ -29,7 +29,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![IBATIS](https://img.shields.io/badge/iBATIS-003366?style=for-the-badge&logo=apache&logoColor=white)
+![iBATIS](https://img.shields.io/badge/iBATIS-003366?style=for-the-badge&logo=apache&logoColor=white)
 ![Struts](https://img.shields.io/badge/Struts-3A3A3A?style=for-the-badge&logo=apache&logoColor=white)
 ![Tiles](https://img.shields.io/badge/Tiles-007396?style=for-the-badge&logo=apache&logoColor=white)
 ![Jasper Reports](https://img.shields.io/badge/Jasper%20Reports-4A90E2?style=for-the-badge&logo=oracle&logoColor=white)
